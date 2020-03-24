@@ -1,0 +1,96 @@
+.container-2 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: baseline;
+    align-content: stretch;
+  }
+  .container-2 > div {
+    border: 1px #ccc solid;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 30px;
+    border-radius: 20px;
+    background-color: white;
+  }
+  
+  .skillbox1 {
+    flex: 1;
+  }
+  .skillbox2 {
+    flex: 1;
+  }
+  .skillbox3 {
+    flex: 1;
+  }
+  
+  .skillbox4 {
+    width: 20%;
+    align-items: center;
+    width: 30vw;
+    height: 30vh;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  
+  .SkillSection {
+    text-align: center;
+    display: flex;
+    background: rgb(242, 112, 156);
+    background: linear-gradient(
+      7deg,
+      rgba(242, 112, 156, 1) 0%,
+      rgba(255, 148, 114, 1) 100%
+    );
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: white;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .flippy-container {
+    margin-bottom: 20px;
+    margin-top: 10%;
+  
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+  .box {
+    margin: 10px;
+  }
+  
+  
+  
+  .containerbox {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .containerbox > div {
+    margin: 10px; 
+  }

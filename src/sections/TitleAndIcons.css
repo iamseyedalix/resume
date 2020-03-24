@@ -1,0 +1,22 @@
+.subtitle {
+  font-family: "Source Code Pro", monospace;
+  font-size: 27px;
+
+}
+
+.subject {
+  font-family: "Lobster", cursive;
+
+  font-size: 47px;
+}
+
+.icons {
+    margin: 20px;
+    display: flex;
+
+}
+
+.icon{
+    display: flex;
+    margin: 5px;
+}

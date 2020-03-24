@@ -1,0 +1,62 @@
+{
+
+    "subject": "Hello I'm SeyedAliX!",
+    "links":{ 
+        "github": "https://github.com/iamseyedalix",
+        "linkedin": "linkedin.com/in/seyed-ali-hoseyni-7635a31a4",
+        "twitter": "https://twitter.com/iamseyedalix",
+        "instagram": "https://www.instagram.com/iamseyedalix/"
+        
+    },
+    "sections": [
+        {
+            "title": "About",
+            "items":[
+                {
+                    "type": "p",
+                    "content":"Software Engineer/Technology blogger looking for challenging problems to solve. My background is in enterprise software development, however, I have an insatiable curiosity for AI – particularly deep learning – applications and their potential to change the technology landscape. I’m writing this blog in the hope to provide some insight into the world of an ever learning and evolving developer. I like candlelight dinners and long walks on the beach. Very long walks. Lots of people say they like long walks on the beach, but then they get out on the beach and after just an hour or two, they say they’re getting tired."
+                }
+            ]
+        },
+        {
+            "title": "Skills",
+            "items": [
+                {
+                    "type": "card",
+                    "content":{
+                        "image": "images/react.png",
+                        "title": "React"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content":{
+                        "image": "images/python.png",
+                        "title": "Python"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content":{
+                        "image": "images/android.png",
+                        "title": "Android"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content":{
+                        "image": "/url",
+                        "title": "CSS"
+                    }
+                }
+            ]
+        }
+    ],
+    "icon" : [{
+        "downicon" : "images/down.png",
+        "upicon" : "images/up.png",
+        "majicwand" : "images/majicwand.png"
+    }]
+
+    
+}

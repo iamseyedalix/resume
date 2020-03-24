@@ -1,0 +1,29 @@
+.NavContainer {
+  display: flex;
+  font-size: 25px;
+  position: fixed;
+}
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  
+}
+.ItemsNav {
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.ItemsNav :hover {
+  text-decoration: overline;
+}
+
+.SkillStyle {
+  font-family: "Lobster", cursive;
+  text-decoration: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.changeColorBtn {
+  margin-right: 75vw; 
+  
+  margin-bottom: 15px;
+}

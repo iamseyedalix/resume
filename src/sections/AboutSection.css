@@ -1,0 +1,18 @@
+.title1 {
+    
+    font-size: 30px;
+}
+
+
+.AboutContent {
+    margin-left: 200px;
+    margin-right: 200px;
+    color: #42b9f5;
+    font-size: 20px;
+}
+
+.innershadow {
+    -webkit-box-shadow: inset 0px 0px 14px -8px rgba(0,0,0,0.75);
+-moz-box-shadow: inset 0px 0px 14px -8px rgba(0,0,0,0.75);
+box-shadow: inset 0px 0px 14px -8px rgba(0,0,0,0.75);
+}
